@@ -15,7 +15,7 @@ Then, the dependencies for this project must be installed using:-
 ```sh
 pip install -r requirements.txt
 ``` 
-After which,this repository must be cloned usingth
+After which,this repository must be cloned using this command:- 
 ```sh
 git clone https://github.com/Bharat123rox/sentiment-analysis-nltk.git
 ```
