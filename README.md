@@ -1,4 +1,4 @@
-# sentiment-analysis-nltk
+# Sentiment Analysis using NLTK
 ## Python Sentiment Analysis using NLTK
 If you are on Ubuntu/Debian distros, python 3 (preferably Version 3.5 and above) must already be up and running on your machine, otherwise get python3 for Windows [here](https://www.python.org/downloads/windows/)
 
