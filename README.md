@@ -31,6 +31,6 @@ Registering for a new Twitter App can be done [here](https://apps.twitter.com/ap
 
 After this, the code can be used and edited freely for any purpose.
 
-This code is covered by GNU GPL v2.0 License.
+This code is covered by MIT License.
 
 Contributions and patches are definitely welcome.
